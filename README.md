@@ -25,7 +25,7 @@ A Django REST Framework-based Library Management System with book borrowing func
 
 1. Clone the repository
 ```bash
-git clone https://github.com/NavalEP/library-project.git
+git clone https://github.com/NavalEP/Library-Management-System.git
 ```
 
 2. Create and activate virtual environment
