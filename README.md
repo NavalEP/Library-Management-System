@@ -59,6 +59,9 @@ python3 manage.py migrate
 6. Create superuser
 ```bash
 python3 manage.py createsuperuser
+username: john@wick
+email: johnwick5@gmail.com
+password: dog@1234
 ```
 
 ## Running the Application
