@@ -136,11 +136,6 @@ The system generates detailed reports including:
 - Total number of authors
 - Total number of books
 - Currently borrowed books
-- Books out of stock
-- Most popular books
-- Active borrowers
-- Books per author ratio
-- Library utilization rate
 
 Reports are generated asynchronously using Celery and stored in the `reports` directory.
 
