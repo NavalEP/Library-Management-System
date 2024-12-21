@@ -36,7 +36,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install dependencies
 ```bash
-pip3 install -r requirements.txt
+pip3 install -r requiements.txt
 ```
 
 4. Set up environment variables
